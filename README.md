@@ -3,10 +3,10 @@
 '에이팀벤처스'는 "사람들의 상상력을 자유롭게 하라"는 비젼을 한걸음씩 실현해 가고 있는 SW-HW 스타트업입니다.
 저희가 지금까지 지나온 발자국은 아래와 같습니다.
 
-- 2015.6. 첫번째 보급형 3D프린터 'CREATABLE(크리에이터블) D2' 출시
-- 2016.6. 두번째 모델 'CREATABLE D3' 출시 : http://creatablelabs.com/
-- 2016.8. 3D프린터 공유 플랫폼 Shapengine(쉐이프엔진) 런칭 : https://shapengine.com/
-- 2016.11.Social 3D Printer 리모트 컨트롤러 디바이스 Waggle(웨글) 인디고고 런칭 예정 : http://gowaggle.io/
+- 2015.6.  첫번째 보급형 3D프린터 'CREATABLE(크리에이터블) D2' 출시
+- 2016.6.  두번째 모델 'CREATABLE D3' 출시 : http://creatablelabs.com/
+- 2016.8.  3D프린터 공유 플랫폼 Shapengine(쉐이프엔진) 런칭 : https://shapengine.com/
+- 2016.11. Social 3D Printer 리모트 컨트롤러 디바이스 Waggle(웨글) 인디고고 런칭 예정 : http://gowaggle.io/
 
 저희 에이팀벤처스는 강력한 SW/HW 기술력을 바탕으로 온오프라인을 연결하는 서비스를 구현해내고 있습니다.
 이제 어느정도 정비된 하드웨어를 기반으로 온오프라인 소프트웨어 플랫폼인 Shapengine의 확장에 주력하고자 합니다.
